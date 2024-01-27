@@ -53,12 +53,13 @@ form .Display input {
     box-shadow: none;
 }
 
-form input .equal {
+.Calculator form input.equal {
 
     width: 145px;
     color: #33ffd8;
 }
 
-form input .operator {
+.Calculator form input.operator {
+
     color: #33ffd8;
 }
